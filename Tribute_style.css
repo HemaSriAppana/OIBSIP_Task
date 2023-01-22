@@ -1,0 +1,49 @@
+.bg{
+background-image:linear-gradient(to bottom right,rgb(141, 220, 68) ,rgb(174, 130, 136),rgb(231, 168, 197));
+background-size:cover;
+height:150vh;
+padding-top:30px;
+padding-right:100px;
+padding-left: 100px;
+}
+
+.hd{
+    text-align:center;
+    font-family:  "sans-serif";
+}
+
+.lk{
+margin-left:550px;
+}
+.lnk{
+    margin-left: 600px;
+    margin-bottom: 50px;
+}
+
+.pr{
+   
+    display:flex;
+    justify-content:center;
+    font-family:  "sans-serif";
+    font-size:17px;
+    height: 200px;;
+    width:auto;
+
+}
+
+.cen{
+    display: inline-block;
+  padding: 1rem 1rem;
+text-align: center;
+}
+.im{
+    margin-left:auto;
+    margin-right: auto;
+    display: block;
+    height:400px;
+    width:300px;
+    border-radius: 20px;
+    border-style:solid;
+    border-color:black;
+    border-width:6px;
+}
