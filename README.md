@@ -1,7 +1,7 @@
 OASIS INFOBYTE-Web Development Internship
-# OIBSIP_Task1
+# OIBSIP_Task2
 Level-1
 
-Task-1:Tribute page
+Task-2:Tribute page
 
 I have made this Tribute page with css,html
